@@ -1,2 +1,2 @@
 # Walsin
-華新麗華製程進度追蹤系統
+Progress Tracking System
